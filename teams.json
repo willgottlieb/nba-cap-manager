@@ -1,0 +1,242 @@
+{
+  "ATL": {
+    "name": "Atlanta Hawks",
+    "city": "Atlanta",
+    "abbr": "hawks",
+    "emoji": "\ud83e\udd85",
+    "primary": "#C8102E",
+    "secondary": "#FDB927"
+  },
+  "BOS": {
+    "name": "Boston Celtics",
+    "city": "Boston",
+    "abbr": "celtics",
+    "emoji": "\u2618\ufe0f",
+    "primary": "#007A33",
+    "secondary": "#BA9653"
+  },
+  "BRK": {
+    "name": "Brooklyn Nets",
+    "city": "Brooklyn",
+    "abbr": "nets",
+    "emoji": "\ud83d\udd78\ufe0f",
+    "primary": "#000000",
+    "secondary": "#FFFFFF"
+  },
+  "CHI": {
+    "name": "Chicago Bulls",
+    "city": "Chicago",
+    "abbr": "bulls",
+    "emoji": "\ud83d\udc02",
+    "primary": "#CE1141",
+    "secondary": "#000000"
+  },
+  "CHO": {
+    "name": "Charlotte Hornets",
+    "city": "Charlotte",
+    "abbr": "hornets",
+    "emoji": "\ud83d\udc1d",
+    "primary": "#1D1160",
+    "secondary": "#00788C"
+  },
+  "CLE": {
+    "name": "Cleveland Cavaliers",
+    "city": "Cleveland",
+    "abbr": "cavaliers",
+    "emoji": "\u2694\ufe0f",
+    "primary": "#860038",
+    "secondary": "#FDBB30"
+  },
+  "DAL": {
+    "name": "Dallas Mavericks",
+    "city": "Dallas",
+    "abbr": "mavericks",
+    "emoji": "\ud83d\udc34",
+    "primary": "#00538C",
+    "secondary": "#B8C4CA"
+  },
+  "DEN": {
+    "name": "Denver Nuggets",
+    "city": "Denver",
+    "abbr": "nuggets",
+    "emoji": "\u26f0\ufe0f",
+    "primary": "#0E2240",
+    "secondary": "#FEC524"
+  },
+  "DET": {
+    "name": "Detroit Pistons",
+    "city": "Detroit",
+    "abbr": "pistons",
+    "emoji": "\ud83c\udfce\ufe0f",
+    "primary": "#C8102E",
+    "secondary": "#1D42BA"
+  },
+  "GSW": {
+    "name": "Golden State Warriors",
+    "city": "San Francisco",
+    "abbr": "warriors",
+    "emoji": "\ud83c\udf09",
+    "primary": "#1D428A",
+    "secondary": "#FFC72C"
+  },
+  "HOU": {
+    "name": "Houston Rockets",
+    "city": "Houston",
+    "abbr": "rockets",
+    "emoji": "\ud83d\ude80",
+    "primary": "#CE1141",
+    "secondary": "#000000"
+  },
+  "IND": {
+    "name": "Indiana Pacers",
+    "city": "Indianapolis",
+    "abbr": "pacers",
+    "emoji": "\ud83c\udfc1",
+    "primary": "#002D62",
+    "secondary": "#FDBB30"
+  },
+  "LAC": {
+    "name": "LA Clippers",
+    "city": "Los Angeles",
+    "abbr": "clippers",
+    "emoji": "\u26f5",
+    "primary": "#C8102E",
+    "secondary": "#1D428A"
+  },
+  "LAL": {
+    "name": "Los Angeles Lakers",
+    "city": "Los Angeles",
+    "abbr": "lakers",
+    "emoji": "\ud83c\udfc6",
+    "primary": "#552583",
+    "secondary": "#FDB927"
+  },
+  "MEM": {
+    "name": "Memphis Grizzlies",
+    "city": "Memphis",
+    "abbr": "grizzlies",
+    "emoji": "\ud83d\udc3b",
+    "primary": "#5D76A9",
+    "secondary": "#12173F"
+  },
+  "MIA": {
+    "name": "Miami Heat",
+    "city": "Miami",
+    "abbr": "heat",
+    "emoji": "\ud83d\udd25",
+    "primary": "#98002E",
+    "secondary": "#F9A01B"
+  },
+  "MIL": {
+    "name": "Milwaukee Bucks",
+    "city": "Milwaukee",
+    "abbr": "bucks",
+    "emoji": "\ud83e\udd8c",
+    "primary": "#00471B",
+    "secondary": "#EEE1C6"
+  },
+  "MIN": {
+    "name": "Minnesota Timberwolves",
+    "city": "Minneapolis",
+    "abbr": "timberwolves",
+    "emoji": "\ud83d\udc3a",
+    "primary": "#0C2340",
+    "secondary": "#78BE20"
+  },
+  "NOP": {
+    "name": "New Orleans Pelicans",
+    "city": "New Orleans",
+    "abbr": "pelicans",
+    "emoji": "\ud83e\udd9c",
+    "primary": "#0C2340",
+    "secondary": "#C8102E"
+  },
+  "NYK": {
+    "name": "New York Knicks",
+    "city": "New York",
+    "abbr": "knicks",
+    "emoji": "\ud83d\uddfd",
+    "primary": "#006BB6",
+    "secondary": "#F58426"
+  },
+  "OKC": {
+    "name": "Oklahoma City Thunder",
+    "city": "Oklahoma City",
+    "abbr": "thunder",
+    "emoji": "\u26a1",
+    "primary": "#007AC1",
+    "secondary": "#EF3B24"
+  },
+  "ORL": {
+    "name": "Orlando Magic",
+    "city": "Orlando",
+    "abbr": "magic",
+    "emoji": "\ud83e\ude84",
+    "primary": "#0077C0",
+    "secondary": "#C4CED4"
+  },
+  "PHI": {
+    "name": "Philadelphia 76ers",
+    "city": "Philadelphia",
+    "abbr": "76ers",
+    "emoji": "\ud83d\udd14",
+    "primary": "#006BB6",
+    "secondary": "#ED174C"
+  },
+  "PHO": {
+    "name": "Phoenix Suns",
+    "city": "Phoenix",
+    "abbr": "suns",
+    "emoji": "\u2600\ufe0f",
+    "primary": "#1D1160",
+    "secondary": "#E56020"
+  },
+  "POR": {
+    "name": "Portland Trail Blazers",
+    "city": "Portland",
+    "abbr": "blazers",
+    "emoji": "\ud83c\udf32",
+    "primary": "#E03A3E",
+    "secondary": "#000000"
+  },
+  "SAC": {
+    "name": "Sacramento Kings",
+    "city": "Sacramento",
+    "abbr": "kings",
+    "emoji": "\ud83d\udc51",
+    "primary": "#5A2D81",
+    "secondary": "#63727A"
+  },
+  "SAS": {
+    "name": "San Antonio Spurs",
+    "city": "San Antonio",
+    "abbr": "spurs",
+    "emoji": "\u26aa",
+    "primary": "#C4CED4",
+    "secondary": "#000000"
+  },
+  "TOR": {
+    "name": "Toronto Raptors",
+    "city": "Toronto",
+    "abbr": "raptors",
+    "emoji": "\ud83e\udd96",
+    "primary": "#CE1141",
+    "secondary": "#000000"
+  },
+  "UTA": {
+    "name": "Utah Jazz",
+    "city": "Salt Lake City",
+    "abbr": "jazz",
+    "emoji": "\ud83c\udfb5",
+    "primary": "#002B5C",
+    "secondary": "#F9A01B"
+  },
+  "WAS": {
+    "name": "Washington Wizards",
+    "city": "Washington",
+    "abbr": "wizards",
+    "emoji": "\ud83e\uddd9",
+    "primary": "#E31837",
+    "secondary": "#002B5C"
+  }
+}
